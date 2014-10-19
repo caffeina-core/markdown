@@ -13,15 +13,10 @@ Core – Markdown Extension
 
 ## Installation
 
-Add package to your **composer.json**:
+Install via [composer](https://getcomposer.org/download/):
 
-```json
-{
-  "require": {
-    "caffeina-core/core": "dev-master",
-    "caffeina-core/markdown": "dev-master"
-  }
-}
+```bash
+$ composer require caffeina-core/markdown -o
 ```
 
 
